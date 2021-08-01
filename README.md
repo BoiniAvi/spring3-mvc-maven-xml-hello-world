@@ -26,3 +26,4 @@ Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyo
 maven file.
 
 Making changes
+It is a spring3 project
