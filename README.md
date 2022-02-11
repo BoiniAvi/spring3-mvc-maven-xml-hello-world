@@ -27,4 +27,4 @@ maven file.
 
 Making changes
 It is a spring3 project
-reatarting the project spring 3
+reatarting the projec3
