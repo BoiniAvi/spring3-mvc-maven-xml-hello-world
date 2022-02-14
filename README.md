@@ -27,4 +27,5 @@ maven file.
 
 Making changes
 It is a spring3 project
+Adding to nexus
 reatarting the projec3
